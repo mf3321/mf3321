@@ -1,6 +1,6 @@
 ![1546702898277](https://user-images.githubusercontent.com/112728848/202857943-afcb5565-921d-45be-a36b-b4ff538e26b0.jpg)
 
-Hello!
+Hello! 👋
 
 Welcome to my GitHub page. 
 

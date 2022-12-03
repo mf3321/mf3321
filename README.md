@@ -1,6 +1,6 @@
 ![1546702898277](https://user-images.githubusercontent.com/112728848/202857943-afcb5565-921d-45be-a36b-b4ff538e26b0.jpg)
 
-Hello! 👋
+<h3>Hello! 👋</h3>
 
 Welcome to my GitHub page. 
 
@@ -15,3 +15,5 @@ I intend to find out.
 I'll be sharing my various projects here on GitHub. Feel free to look around.
 
 May
+
+<sup>© 2022 May Fung</sup>

@@ -4,7 +4,7 @@
 
 Welcome to my GitHub page. 
 
-I'm a part-time MA student in the [QMSS](https://qmss.columbia.edu/) program at Columbia University on the data science track. This semester, I'm taking <u>Data Analysis for the Social Sciences</u> with QMSS director [Gregory Eirich](https://www.linkedin.com/in/greg-eirich-2541598/), an intellectually engaging and highly entertaining lecturer. In this introductory course in probability and social statistics, we're learning to generate and interpret quantitative data using statistical software. I'm also taking a Research Seminar course, where we hear from practicing data scientists (often QMSS graduates) about their projects, which have ranged from establishing trust in autonomous vehicles to tracking communications of violent far-right groups.
+I'm a part-time MA student in the [QMSS](https://qmss.columbia.edu/) program at Columbia University on the data science track. This semester, I'm taking <u>Advanced Analytics</u> with QMSS director [Gregory Eirich](https://www.linkedin.com/in/greg-eirich-2541598/), an intellectually engaging and highly entertaining lecturer. This follows from his introductory course in probability and social statistics last semester, <u>Data Analysis for the Social Sciences</u>, where we learned to generate and interpret quantitative data using statistical software. I'm also taking my second Research Seminar course, where we hear from practicing data scientists (often QMSS graduates) about their projects, which have ranged from best practices for employee data to the effect of monetary policy on income inequality.
 
 Leading up to QMSS, I taught myself [python programming](https://www.coursera.org/learn/learn-to-program) with Jennifer Campbell and Paul Gries, and reviewed [calculus](https://www.coursera.org/learn/introduction-to-calculus) with David Easdown, both on Coursera; I highly recommend them both. I also relearned statistics in [Anthony Donaghue](https://www.linkedin.com/in/anthony-donoghue-66364237/)'s Statistical Thinking for Data Science, a deceptively simple course that demands you truly wrestle with the concepts to avoid mechanical application of formulae and procedures.
 
@@ -16,4 +16,4 @@ I'll be sharing my various projects here on GitHub. Feel free to look around.
 
 May
 
-<sup>© 2022 May Fung</sup>
+<sup>© 2023 May Fung</sup>

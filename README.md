@@ -4,9 +4,9 @@
 
 Welcome to my GitHub page. 
 
-I'm a part-time MA student in the [QMSS](https://qmss.columbia.edu/) program at Columbia University on the data science track. Having taken a leave of absence to start a new job, I am thrilled to be returning this summer to my studies. I’ll dive back in with AI & Social Science, taught by QMSS director [Gregory Eirich](https://www.linkedin.com/in/greg-eirich-2541598/), and follow up with Natural Language Processing in the Social Sciences with [Patrick Houlihan](https://www.linkedin.com/in/patrick-houlihan-ph-d-mba-9310642/). I expect it will be 2 intense months… and I can't wait!
+I'm a part-time MA student in the [QMSS](https://qmss.columbia.edu/) program at Columbia University on the data science track. This semester, I’m getting my hands dirty in the nitty-gritty of data wrangling with [Nick Anderson](https://www.linkedin.com/in/nanderson08) as fearless guide. I fully expect to learn new skills every Monday night that I can put to use at my job Tuesday morning.
 
-I started the QMSS program with Data Analysis for the Social Sciences, where we learned to generate and interpret quantitative data using statistical software, and continued on to Advanced Analytics, where we gained familiarity with more complex models. I also completed two Research Seminar courses, where we heard from practicing data scientists (often QMSS graduates) about current or past projects, ranging from best practices for employee data to the effect of monetary policy on income inequality.
+I started the QMSS program with Data Analysis for the Social Sciences, where we learned to generate and interpret quantitative data using statistical software, and continued on to Advanced Analytics, where we gained familiarity with more complex models. I also completed two Research Seminar courses, where we heard from practicing data scientists (often QMSS graduates) about current or past projects, ranging from best practices for employee data to the effect of monetary policy on income inequality. After a leave of absence to start a new job, I dove back in with AI & Social Science. Most recently I completed a formal thesis proposal in Quantitative Theory and Methodology.
 
 Leading up to QMSS, I taught myself [python programming](https://www.coursera.org/learn/learn-to-program) with Jennifer Campbell and Paul Gries, and reviewed [calculus](https://www.coursera.org/learn/introduction-to-calculus) with David Easdown, both on Coursera; I highly recommend them both. I also relearned statistics in [Anthony Donaghue](https://www.linkedin.com/in/anthony-donoghue-66364237/)'s Statistical Thinking for Data Science, a deceptively simple course that demands you truly wrestle with the concepts to avoid mechanical application of formulae and procedures.
 
@@ -18,4 +18,4 @@ I'll be sharing my various projects here on GitHub. Feel free to look around.
 
 May
 
-<sup>© 2024 May Fung</sup>
+<sup>© 2025 May Fung</sup>
